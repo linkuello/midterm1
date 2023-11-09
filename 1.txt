@@ -1,0 +1,2 @@
+из за того что не готовился
+git commit -m "first commit"
